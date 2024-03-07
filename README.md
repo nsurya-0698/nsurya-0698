@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nsurya-0698
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning React and django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/feed/
 
