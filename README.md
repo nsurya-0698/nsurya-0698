@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development
 - 💞️ I’m looking to collaborate on exciting development projects
 - 📫 How to reach me: https://www.linkedin.com/in/tejanammi/
-- 🌐 Portfolio: https://nsurya-0698.github.io/createURLForReactApp/
+- 🌐 Portfolio: [https://nsurya-0698.github.io/createURLForReactApp/](https://nsurya-0698.github.io/surya-professional-portfolio/)
 - 📧 Email: snnhp@umsystem.edu
 - 📱 Phone: +1 8167156330
 <!---
